@@ -1,0 +1,61 @@
+* {
+    font-family: "Inter";
+}
+
+.titulo h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.devby p {
+    text-align: center;
+    margin: 20px;
+}
+
+.imagemprincipal {
+    text-align: center;
+}
+
+h2,
+h3 {
+    text-align: center;
+    margin: 30px;
+}
+
+.box {
+    text-align: justify;
+    border: 1px solid black;
+    padding: 30px;
+    width: 700px;
+    height: auto;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.cisco1 {
+    text-align: center;
+    margin: 20px;
+}
+
+li {
+    margin: 20px;
+}
+
+.arduino2 {
+    text-align: center;
+    margin: 30px;
+}
+
+.peças {
+    text-align: center;
+    margin: 20px;
+}
+
+.luz {
+    text-align: center;
+    margin: 20px;
+}
+
+.programação {
+    text-align: center;
+}
